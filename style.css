@@ -231,8 +231,6 @@ body {
         }
     
         i,
-        i.fa-play-circle,
-        i.fa-pause-circle,
         i.fa-step-forward,
         i.fa-step-backward,
         i.fa-random,
@@ -240,5 +238,8 @@ body {
         p {
             font-size: 1.5rem;
         }
+        i.fa-play-circle,
+        i.fa-pause-circle{
+            font-size: 1.8rem;
     }
     
